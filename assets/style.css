@@ -1,0 +1,53 @@
+/* Stephen W. Dickey Portfolio Styling */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+
+header {
+    padding: 20px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    top: 0;
+}
+
+
+header nav ul {
+    text-align: right;
+    justify-content: space-between;
+}
+
+header nav ul li {
+    padding: 10px;
+}
+
+/* About Section Styling */
+
+.section1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section1 img {
+    max-width: 500px;
+    max-height: 500px;
+    padding-right: 100px;
+}
+
+
+
+
+
+/* Projects Section Styling */
+
+
+/* Contact Section Styling */
+
+/* Footer Styling */
