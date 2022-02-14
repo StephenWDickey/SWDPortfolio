@@ -10,6 +10,6 @@ My portfolio will consist of information about me, will showcase some of my proj
 
 StephenWDickey
 GitHub page: https://github.com/StephenWDickey
-Deployment URL: 
+Deployment URL: https://stephenwdickey.github.io/SWDPortfolio/
 
 ## License
