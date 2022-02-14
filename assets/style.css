@@ -57,6 +57,9 @@ header {
     border-bottom: solid 2px black;
 }
 
+header h1 {
+    padding-top: 20px;
+}
 
 header nav ul {
     text-align: right;
@@ -81,7 +84,7 @@ header nav ul li {
     max-height: 500px;
     margin: 40px;
     border: solid 2px black;
-    margin-right: 40px;
+    margin-right: 100px;
 }
 
 .info {
@@ -89,6 +92,7 @@ header nav ul li {
     padding-left: 50px;
     border-radius: 10px;
     border: solid 2px black;
+    margin-left: 40px;
 }
 
 .info p {
@@ -110,6 +114,7 @@ header nav ul li {
     padding: 20px;
 }
 
+
 .section2 div {
     background-color: lightgrey;
 }
@@ -121,19 +126,21 @@ header nav ul li {
 
 .project1 {
     width: 100%;
-    height: 400px;
+    height: 100%;
     margin: 20px;
     border-radius: 10px;
-    border: solid 2px black;
+    border: 5px solid black;
 }
 
 .projects {
     width: 75%;
-    float: left;
     margin: 20px;
     border-radius: 10px;
-    border: solid 2px black;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
 }
+
 
 .section2 img {
     width: 100%;
@@ -150,9 +157,15 @@ header nav ul li {
     height: 400px;
 }
 
+
 .section2 a:hover {
     opacity: 50%;
 }
+
+.section2 h3 {
+    text-align: center;
+}
+
 
 
 /* Contact Section Styling */
