@@ -196,8 +196,11 @@ footer h2 {
 @media screen and (max-width: 575px) {
     .info {
         flex: 0 30%;
+        text-align: center;
+        margin: 50px;
     }
     .pic {
-        flex: 1 70%;
+        flex: 0 70%;
+        width: 75%;
     }
 }
